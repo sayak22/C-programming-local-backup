@@ -1,0 +1,4 @@
+sayak 50
+neymar 200
+billie 78
+lukaku 46
